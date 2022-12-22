@@ -131,17 +131,13 @@ img {
 
  @media screen and (max-width: 768px) {
     .container {
-        width: 740px;
-        margin: 0 auto;
-        padding: 0 5px;
+        width: 100%;
     }
  }
 
  @media screen and (max-width: 480px) {
     .container {
-        width: 460px;
-        margin: 0 auto;
-        padding: 0 30px;
+        width: 100%;
     }
 
     .row {
